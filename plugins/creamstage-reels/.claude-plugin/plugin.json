@@ -1,0 +1,16 @@
+{
+  "name": "creamstage-reels",
+  "version": "0.5.0",
+  "description": "CreamStage Reels: house-style talking-head Reel editing (captions, cream animation stage, sound design) + effects pack (maps, charts, mockups, stickers, wipes, film look), speaker cut-out / text-behind-you, and quick-fix tools.",
+  "author": {
+    "name": "knkworld"
+  },
+  "license": "Template code: user-owned. SFX: CC0 (Kenney) + synthesized + remotion.media samples. Fonts: Inter & Instrument Serif (SIL OFL).",
+  "keywords": [
+    "reels",
+    "remotion",
+    "captions",
+    "motion-graphics",
+    "creamstage"
+  ]
+}

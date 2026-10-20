@@ -1,0 +1,12 @@
+import {Easing} from 'remotion';
+export const FPS = 30;
+export const S = (s: number) => Math.round(s * FPS);
+export const CREAM = '#F4F1EA';
+export const INK = '#151515';
+export const BLUE = '#2F6BFF';
+export const BLUE_LIGHT = '#7EA6FF';
+export const SANS = 'Inter';
+export const SERIF = 'Instrument Serif';
+export const inOut = Easing.bezier(0.65, 0, 0.35, 1);
+export const out = Easing.bezier(0.16, 1, 0.3, 1);
+export const clamp = {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'} as const;

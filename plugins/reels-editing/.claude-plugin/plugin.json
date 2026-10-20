@@ -1,0 +1,8 @@
+{
+  "name": "reels-editing",
+  "version": "0.1.0",
+  "description": "Edit talking-head videos into polished Instagram Reels, YouTube Shorts and TikToks: cleanup, animated word-by-word captions, motion-graphic overlays, and clipping long videos into shorts.",
+  "author": { "name": "knkworld" },
+  "license": "See licenses/ folder (Apache-2.0, MIT, AGPL-3.0 components)",
+  "keywords": ["video", "reels", "shorts", "captions", "ffmpeg", "hyperframes"]
+}

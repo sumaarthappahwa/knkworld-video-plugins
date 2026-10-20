@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "knkworld-video",
+  "owner": { "name": "knkworld" },
+  "description": "Video editing plugins for Claude: talking-head Reels, Shorts and TikToks.",
+  "plugins": [
+    {
+      "name": "reels-editing",
+      "source": "./plugins/reels-editing",
+      "description": "Edit talking-head videos into polished Instagram Reels, YouTube Shorts and TikToks: cleanup, animated word-by-word captions, motion-graphic overlays, and clipping long videos into shorts.",
+      "version": "0.1.0",
+      "author": { "name": "knkworld" },
+      "category": "Design",
+      "keywords": ["video", "reels", "shorts", "captions", "ffmpeg", "hyperframes"]
+    },
+    {
+      "name": "creamstage-reels",
+      "source": "./plugins/creamstage-reels",
+      "description": "CreamStage Reels: house-style talking-head Reel editing (captions, cream animation stage, sound design) + effects pack, speaker cut-out / text-behind-you, and quick-fix tools.",
+      "version": "0.5.0",
+      "author": { "name": "knkworld" },
+      "category": "Design",
+      "keywords": ["reels", "remotion", "captions", "motion-graphics", "creamstage"]
+    }
+  ]
+}
